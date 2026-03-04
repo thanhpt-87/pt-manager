@@ -104,12 +104,11 @@ The `src/lib/api.ts` file contains a pre-configured Axios instance. When you're 
 
 ---
 
-## Pushing to GitHub
+## Next phase
 
 ```bash
-git init
-git add .
-git commit -m "feat: initial PT Manager setup"
-git remote add origin https://github.com/YOUR_USERNAME/pt-manager.git
-git push -u origin main
+Show demo
+Collect feedbacks
+Prepare BE (still not sure about the database)
+...
 ```
